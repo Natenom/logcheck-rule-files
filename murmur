@@ -1,0 +1,26 @@
+^.*New connection.*$
+^.*Client version.*$
+^<.* Authenticated.*$
+^<.* Connection closed:.*$
+^.*<[0-9]*:.*([0-9]*) Added channel.*$
+^.*<[0-9]*:.*([0-9]*) Removed channel.*$
+^.*<[0-9]*:.*([0-9]*) Updated ACL.*$
+^.*<[0-9]*:.*([0-9]*) Request.* crypt-nonce resync.*$
+^.*<[0-9]*:.*([0-9]*) Timeout.*$
+^.*<[0-9]*:.*([0-9]*) Disconnecting ghost.*$
+^.*<[0-9]*:.*([0-9]*) Kickbanned .*$ 
+^.*<[0-9]*:.*([0-9]*) Kicked .*$ 
+^.*<[0-9]*:.*([0-9]*) Unregistered user.*$
+^.*<[0-9]*:.*([0-9]*) Renamed.*$
+^<.* not allowed to .*$ 
+^.*CELT codec switch.*$
+^.*Registration: Registration updated$
+^.*voice thread$
+^.* Moved .*$ 
+^.* Changed speak-state of .*$ 
+#^Ignoring connection: .*\(Global ban\).*$
+#^Ignoring connection: .*\(Server ban\).*$
+#^Certificate hash is banned.*$
+#^.*<[0-9]*:.*([0-9]*) Updated banlist.*$
+#^.*<[0-9]*:.*([0-9]*) Invalid username.*$
+#^.*<[0-9]*:.*([0-9]*) Wrong password.*$
