@@ -1,4 +1,8 @@
-logcheck-rule-files
-===================
+======logcheck-rule-files======
+=====Mumble-Server (Murmur)=====
+http://wiki.natenom.name/mumble/benutzerhandbuch/murmur/logcheck
 
-logcheck-rule-files
+=====Documentation of logcheck=====
+http://logcheck.org/docs/README.logcheck-database
+http://logcheck.org/docs/README.logcheck
+
