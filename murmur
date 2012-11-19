@@ -24,3 +24,4 @@
 #^.*<[0-9]*:.*([0-9]*) Updated banlist.*$
 #^.*<[0-9]*:.*([0-9]*) Invalid username.*$
 #^.*<[0-9]*:.*([0-9]*) Wrong password.*$
+^.* Strong certificate for .*$
