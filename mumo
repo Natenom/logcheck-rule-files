@@ -1,0 +1,12 @@
+^.*INFO.*Stop$
+^.*INFO.*Start$
+^.*INFO.*Loading.*$
+^.*INFO.*Starting.*$
+^.*INFO.*Shutdown complete$
+^.*INFO.*Initialized$
+^.*INFO.*Setting callbacks.*$
+^.*INFO.*Connecting to Ice server.*$
+^.*INFO.*Attaching meta callback$
+
+
+#get WARNING and ERROR
