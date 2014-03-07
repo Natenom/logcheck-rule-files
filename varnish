@@ -1,0 +1,2 @@
+^.*varnishd.*CLI telnet 127.0.0.1.*(Rd|Wr) (ban|auth|200).*$
+
