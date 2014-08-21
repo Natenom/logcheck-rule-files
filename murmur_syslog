@@ -1,0 +1,21 @@
+^.*murmurd.*New connection.*$
+^.*murmurd.*Client version.*$
+^.*murmurd.*<.* Authenticated.*$
+^.*murmurd.*<.* Connection closed:.*$
+^.*murmurd.*<[0-9]*:.*([0-9]*) Added channel.*$
+^.*murmurd.*<[0-9]*:.*([0-9]*) Removed channel.*$
+^.*murmurd.*<[0-9]*:.*([0-9]*) Updated ACL.*$
+^.*murmurd.*<[0-9]*:.*([0-9]*) Request.* crypt-nonce resync.*$
+^.*murmurd.*<[0-9]*:.*([0-9]*) Timeout.*$
+^.*murmurd.*<[0-9]*:.*([0-9]*) Disconnecting ghost.*$
+^.*murmurd.*<[0-9]*:.*([0-9]*) Kickbanned .*$ 
+^.*murmurd.*<[0-9]*:.*([0-9]*) Kicked .*$ 
+^.*murmurd.*<[0-9]*:.*([0-9]*) Unregistered user.*$
+^.*murmurd.*<[0-9]*:.*([0-9]*) Renamed.*$
+^.*murmurd.*<.* not allowed to .*$ 
+^.*murmurd.*CELT codec switch.*$
+^.*murmurd.*Registration: Registration updated$
+^.*murmurd.*voice thread$
+^.*murmurd.* Moved .*$ 
+^.*murmurd.* Changed speak-state of .*$ 
+^.*murmurd.* Strong certificate for .*$
