@@ -4,7 +4,7 @@
 
 ## Mumble-Server (Murmur)
 * Documentation (English): http://wiki.natenom.com/w/Logcheck_regular_expressions_for_Murmur_%28Mumble-Server%29
-* Documentation (German): http://wiki.natenom.de/mumble/benutzerhandbuch/murmur/logcheck
+** murmur for the server´s own logfile and murmur_syslog if server loggs to syslog.
 
 ## Mumble Moderator (MuMo)
 * Documentation (English): http://wiki.natenom.com/w/Mumble_Moderator
