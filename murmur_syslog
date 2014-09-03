@@ -16,6 +16,6 @@
 ^.*murmurd.*CELT codec switch.*$
 ^.*murmurd.*Registration: Registration updated$
 ^.*murmurd.*voice thread$
-^.*murmurd.* Moved .*$ 
+^.*murmurd.* Moved .*$
 ^.*murmurd.* Changed speak-state of .*$ 
 ^.*murmurd.* Strong certificate for .*$
