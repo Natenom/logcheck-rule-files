@@ -14,7 +14,7 @@
 ^.*murmurd.*<[0-9]*:.*([0-9]*) Renamed.*$
 ^.*murmurd.*<.* not allowed to .*$
 ^.*murmurd.*CELT codec switch.*$
-^.*murmurd.*Registration: Registration updated$
+^.*murmurd.*Registration:.*Registration updated$
 ^.*murmurd.*voice thread$
 ^.*murmurd.* Moved .*$
 ^.*murmurd.* Changed speak-state of .*$
