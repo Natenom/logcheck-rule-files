@@ -8,16 +8,16 @@
 ^.*<[0-9]*:.*([0-9]*) Request.* crypt-nonce resync.*$
 ^.*<[0-9]*:.*([0-9]*) Timeout.*$
 ^.*<[0-9]*:.*([0-9]*) Disconnecting ghost.*$
-^.*<[0-9]*:.*([0-9]*) Kickbanned .*$ 
-^.*<[0-9]*:.*([0-9]*) Kicked .*$ 
+^.*<[0-9]*:.*([0-9]*) Kickbanned .*$
+^.*<[0-9]*:.*([0-9]*) Kicked .*$
 ^.*<[0-9]*:.*([0-9]*) Unregistered user.*$
 ^.*<[0-9]*:.*([0-9]*) Renamed.*$
-^<.* not allowed to .*$ 
+^<.* not allowed to .*$
 ^.*CELT codec switch.*$
 ^.*Registration: Registration updated$
 ^.*voice thread$
-^.* Moved .*$ 
-^.* Changed speak-state of .*$ 
+^.* Moved .*$
+^.* Changed speak-state of .*$
 #^Ignoring connection: .*\(Global ban\).*$
 #^Ignoring connection: .*\(Server ban\).*$
 #^Certificate hash is banned.*$
