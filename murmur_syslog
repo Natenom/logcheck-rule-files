@@ -19,3 +19,5 @@
 ^.*murmurd.* Moved .*$
 ^.*murmurd.* Changed speak-state of .*$
 ^.*murmurd.* Strong certificate for .*$
+^.*murmurd.* Added Ice ServerContextCallback .*$
+
