@@ -1,23 +1,22 @@
-^.*murmurd.*New connection.*$
-^.*murmurd.*Client version.*$
-^.*murmurd.*<.* Authenticated.*$
-^.*murmurd.*<.* Connection closed:.*$
-^.*murmurd.*<[0-9]*:.*([0-9]*) Added channel.*$
-^.*murmurd.*<[0-9]*:.*([0-9]*) Removed channel.*$
-^.*murmurd.*<[0-9]*:.*([0-9]*) Updated ACL.*$
-^.*murmurd.*<[0-9]*:.*([0-9]*) Request.* crypt-nonce resync.*$
-^.*murmurd.*<[0-9]*:.*([0-9]*) Timeout.*$
-^.*murmurd.*<[0-9]*:.*([0-9]*) Disconnecting ghost.*$
-^.*murmurd.*<[0-9]*:.*([0-9]*) Kickbanned .*$
-^.*murmurd.*<[0-9]*:.*([0-9]*) Kicked .*$
-^.*murmurd.*<[0-9]*:.*([0-9]*) Unregistered user.*$
-^.*murmurd.*<[0-9]*:.*([0-9]*) Renamed.*$
-^.*murmurd.*<.* not allowed to .*$
-^.*murmurd.*CELT codec switch.*$
-^.*murmurd.*Registration:.*Registration updated$
-^.*murmurd.*voice thread$
-^.*murmurd.* Moved .*$
-^.*murmurd.* Changed speak-state of .*$
-^.*murmurd.* Strong certificate for .*$
-^.*murmurd.* Added Ice ServerContextCallback .*$
-
+^.*murmur(\.x86|d).*New connection.*$
+^.*murmur(\.x86|d).*<.* Authenticated.*$
+^.*murmur(\.x86|d).*Client version.*$
+^.*murmur(\.x86|d).*<.* Connection closed:.*$
+^.*murmur(\.x86|d).*<[0-9]*:.*([0-9]*) Added channel.*$
+^.*murmur(\.x86|d).*<[0-9]*:.*([0-9]*) Removed channel.*$
+^.*murmur(\.x86|d).*<[0-9]*:.*([0-9]*) Updated ACL.*$
+^.*murmur(\.x86|d).*<[0-9]*:.*([0-9]*) Request.* crypt-nonce resync.*$
+^.*murmur(\.x86|d).*<[0-9]*:.*([0-9]*) Timeout.*$
+^.*murmur(\.x86|d).*<[0-9]*:.*([0-9]*) Disconnecting ghost.*$
+^.*murmur(\.x86|d).*<[0-9]*:.*([0-9]*) Kickbanned .*$
+^.*murmur(\.x86|d).*<[0-9]*:.*([0-9]*) Kicked .*$
+^.*murmur(\.x86|d).*<[0-9]*:.*([0-9]*) Unregistered user.*$
+^.*murmur(\.x86|d).*<[0-9]*:.*([0-9]*) Renamed.*$
+^.*murmur(\.x86|d).*<.* not allowed to .*$
+^.*murmur(\.x86|d).*CELT codec switch.*$
+^.*murmur(\.x86|d).*Registration:.*Registration updated$
+^.*murmur(\.x86|d).*voice thread$
+^.*murmur(\.x86|d).* Moved .*$
+^.*murmur(\.x86|d).* Changed speak-state of .*$
+^.*murmur(\.x86|d).* Strong certificate for .*$
+^.*murmur(\.x86|d).* Added Ice ServerContextCallback .*$
